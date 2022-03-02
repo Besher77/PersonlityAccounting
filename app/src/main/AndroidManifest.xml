@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.qashar.mypersonalaccounting">
+
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.SET_ALARM" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyPersonalAccounting2">
+
+        <receiver
+            android:name=".Else.MyReceiver"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name=".Activities.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activities.WalletActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.UpdateModelActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.ShowDetailsActivity"
+            android:exported="true" />
+
+        <service
+            android:name=".ui.MyIntentService"
+            android:exported="false" />
+
+        <activity
+            android:name=".Activities.AddModelActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Category.AddCategoryActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Category.CategoryActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.EditWalletActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.AddWalletActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CountriesCurrency.CurrencyActivity"
+            android:exported="true"
+            android:theme="@style/Theme.MyPersonalAccountingDialog" />
+        <activity
+            android:name=".Activities.MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

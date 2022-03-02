@@ -1,0 +1,1453 @@
+[
+  {
+    "shortcut": "USD",
+    "symbol": "$",
+    "name": "United States Dollar",
+    "uid": 1,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "GBP",
+    "symbol": "£",
+    "name": "Pound",
+    "uid": 2,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "EUR",
+    "symbol": "€",
+    "name": "Euro",
+    "uid": 3,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "VND",
+    "symbol": "₫",
+    "name": "Việt Nam Đồng",
+    "t": 1,
+    "uid": 4,
+    "r": "0",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "CNY",
+    "symbol": "¥",
+    "name": "Yuan Renminbi",
+    "uid": 5,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "JPY",
+    "symbol": "¥",
+    "name": "Yen",
+    "uid": 6,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "BRL",
+    "symbol": "R$",
+    "name": "Reais",
+    "uid": 7,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "RUB",
+    "symbol": "₽",
+    "name": "Rubles",
+    "uid": 8,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "KRW",
+    "symbol": "₩",
+    "name": "Won",
+    "uid": 9,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "THB",
+    "symbol": "฿",
+    "name": "Baht",
+    "uid": 10,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "INR",
+    "symbol": "₹",
+    "name": "India Rupee",
+    "uid": 11,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "CHF",
+    "symbol": "Fr.",
+    "name": "Francs",
+    "uid": 12,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "DKK",
+    "symbol": "Kr",
+    "name": "Kroner",
+    "uid": 13,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "SEK",
+    "symbol": "kr",
+    "name": "Sweden Krona",
+    "uid": 14,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "PLN",
+    "symbol": "zł",
+    "name": "Poland Zlotych",
+    "uid": 15,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "HUF",
+    "symbol": "Ft",
+    "name": "Hungary Forint",
+    "uid": 16,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "NOK",
+    "symbol": "kr",
+    "name": "Norwegian krone",
+    "uid": 17,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "BYR",
+    "symbol": "Br",
+    "name": "Belarusian ruble",
+    "uid": 18,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "DZD",
+    "symbol": "DZD",
+    "name": "Algerian Dinar",
+    "uid": 19,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "AUD",
+    "symbol": "AU$",
+    "name": "Australia Dollars",
+    "uid": 20,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "AZN",
+    "symbol": "₼",
+    "name": "Azerbaijan New Manats",
+    "uid": 21,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "ARS",
+    "symbol": "$",
+    "name": "Argentina Pesos",
+    "uid": 22,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "BDT",
+    "symbol": "BDT",
+    "name": "Bangladeshi taka",
+    "uid": 23,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "BOB",
+    "symbol": "$b",
+    "name": "Bolivianos",
+    "uid": 24,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "BGN",
+    "symbol": "лв",
+    "name": "Bulgarian lev",
+    "uid": 25,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "CAD",
+    "symbol": "C$",
+    "name": "Canada Dollars",
+    "uid": 26,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "CRC",
+    "symbol": "₡",
+    "name": "Colon",
+    "uid": 27,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "HRK",
+    "symbol": "kn",
+    "name": "Croatian kuna",
+    "uid": 28,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "CLP",
+    "symbol": "$",
+    "name": "Chile Pesos",
+    "uid": 29,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "COP",
+    "symbol": "COL$",
+    "name": "Colombia Pesos",
+    "uid": 30,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "CZK",
+    "symbol": "Kč",
+    "name": "Česká koruna",
+    "t": 1,
+    "uid": 31,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "HNL",
+    "symbol": "L",
+    "name": "Lempiras",
+    "uid": 33,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "MAD",
+    "symbol": "MAD",
+    "name": "Moroccan Dirham",
+    "uid": 34,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "MXN",
+    "symbol": "Mex$",
+    "name": "Mexico Pesos",
+    "uid": 35,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "NGN",
+    "symbol": "₦",
+    "name": "Nairas",
+    "uid": 36,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "NZD",
+    "symbol": "NZ$",
+    "name": "New Zealand Dollars",
+    "uid": 37,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "HKD",
+    "symbol": "HK$",
+    "name": "Hong Kong Dollars",
+    "uid": 38,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "LAK",
+    "symbol": "₭",
+    "name": "Lao kip",
+    "uid": 39,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "KES",
+    "symbol": "KSh",
+    "name": "Kenya Shilling",
+    "uid": 40,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "DOP",
+    "symbol": "RD$",
+    "name": "Dominican Republic Pesos",
+    "uid": 41,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "GHS",
+    "symbol": "GH₵",
+    "name": "Ghana Cedi",
+    "uid": 42,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "ILS",
+    "symbol": "₪",
+    "name": "Israel New Shekels",
+    "uid": 43,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "IDR",
+    "symbol": "Rp",
+    "name": "Indonesia Rupiah",
+    "uid": 44,
+    "r": "0",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "IRR",
+    "symbol": "IRR",
+    "name": "Iranian Rial",
+    "uid": 45,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "JOD",
+    "symbol": "JOD",
+    "name": "Jordanian dinar",
+    "uid": 46,
+    "r": "3",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "KGS",
+    "symbol": "сом",
+    "name": "Kyrgyzstan Som",
+    "uid": 47,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "LVL",
+    "symbol": "Ls",
+    "name": "Latvia Lati",
+    "uid": 48,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "LTL",
+    "symbol": "Lt",
+    "name": "Lithuania Litai",
+    "uid": 49,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "MKD",
+    "symbol": "ден",
+    "name": "Macedonia Denars",
+    "uid": 50,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "MZN",
+    "symbol": "MT",
+    "name": "Mozambique Meticais",
+    "uid": 51,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "MYR",
+    "symbol": "RM",
+    "name": "Malaysia Ringgits",
+    "uid": 52,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "ANG",
+    "symbol": "NAƒ",
+    "name": "Netherlands Antilles Guilders",
+    "uid": 53,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "TWD",
+    "symbol": "NT$",
+    "name": "New Taiwan Dollar",
+    "uid": 54,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "NIO",
+    "symbol": "C$",
+    "name": "Nicaragua Cordobas",
+    "uid": 55,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "NPR",
+    "symbol": "NRs",
+    "name": "Nepalese Rupee",
+    "uid": 56,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "OMR",
+    "symbol": "﷼",
+    "name": "Oman Rials",
+    "uid": 57,
+    "r": "3",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "PAB",
+    "symbol": "B/.",
+    "name": "Panama Balboa",
+    "uid": 58,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "PHP",
+    "symbol": "₱",
+    "name": "Philippines Pesos",
+    "uid": 59,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "PYG",
+    "symbol": "Gs",
+    "name": "Paraguay Guarani",
+    "uid": 60,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "PEN",
+    "symbol": "S/.",
+    "name": "Peru Nuevos Soles",
+    "uid": 61,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "QAR",
+    "symbol": "QR",
+    "name": "Qatar riyal",
+    "uid": 62,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "RON",
+    "symbol": "lei",
+    "name": "Romanian Leu",
+    "uid": 63,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "TTD",
+    "symbol": "TT$",
+    "name": "Trinidad and Tobago Dollars",
+    "uid": 64,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "TRY",
+    "symbol": "TL.",
+    "name": "Turkish Liras",
+    "uid": 65,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "TND",
+    "symbol": "DT",
+    "name": "Tunisian dinar",
+    "uid": 66,
+    "r": "3",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "UAH",
+    "symbol": "₴",
+    "name": "Ukraine Hryvnia",
+    "uid": 67,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "UYU",
+    "symbol": "$U",
+    "name": "Uruguay Pesos",
+    "uid": 68,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "AED",
+    "symbol": "AED",
+    "name": "United Arab Emirates dirham",
+    "uid": 69,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "VEF",
+    "symbol": "Bs",
+    "name": "Venezuela Bolivares Fuertes",
+    "uid": 70,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "KZT",
+    "symbol": "₸",
+    "name": "Kazakhstani tenge",
+    "uid": 71,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "RSD",
+    "symbol": "din.",
+    "name": "Serbia Dinar",
+    "uid": 72,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "SAR",
+    "symbol": "SR",
+    "name": "Saudi Arabian Riyal",
+    "uid": 73,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "SKK",
+    "symbol": "SKK",
+    "name": "Slovak crown",
+    "uid": 74,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "ZAR",
+    "symbol": "R",
+    "name": "South African rand",
+    "uid": 75,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "SGD",
+    "symbol": "S$",
+    "name": "Singapore Dollars",
+    "uid": 76,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "LKR",
+    "symbol": "Rs",
+    "name": "Sri Lanka rupee",
+    "uid": 77,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "ZMW",
+    "symbol": "ZK",
+    "name": "Zambian kwacha",
+    "uid": 78,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "LBP",
+    "symbol": "LBP",
+    "name": "Lebanese Pound",
+    "uid": 79,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "KWD",
+    "symbol": "K.D",
+    "name": "Kuwaiti Dinar",
+    "uid": 80,
+    "r": "3",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "name": "Afghan afghani",
+    "symbol": "AFN",
+    "shortcut": "AFN",
+    "uid": 81,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "ALL",
+    "shortcut": "ALL",
+    "name": "Albanian lek",
+    "uid": 82,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "name": "Angolan kwanza",
+    "symbol": "AOA",
+    "shortcut": "AOA",
+    "uid": 83,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "EC$",
+    "shortcut": "XCD",
+    "name": "East Caribbean dollar",
+    "uid": 84,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "AMD",
+    "shortcut": "AMD",
+    "name": "Armenian dram",
+    "uid": 85,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "ƒ",
+    "shortcut": "AWG",
+    "name": "Aruban florin",
+    "uid": 86,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "B$",
+    "shortcut": "BSD",
+    "name": "Bahamian dollar",
+    "uid": 87,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "BHD",
+    "shortcut": "BHD",
+    "name": "Bahraini dinar",
+    "uid": 88,
+    "r": "3",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "Bds",
+    "shortcut": "BBD",
+    "name": "Barbadian dollar",
+    "uid": 89,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "symbol": "BZ$",
+    "shortcut": "BZD",
+    "name": "Belize dollar",
+    "uid": 90,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "CFA",
+    "shortcut": "XOF",
+    "name": "West African CFA franc",
+    "uid": 91,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "BD$",
+    "shortcut": "BMD",
+    "name": "Bermudian dollar",
+    "uid": 92,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "Nu.",
+    "shortcut": "BTN",
+    "name": "Bhutanese ngultrum",
+    "uid": 93,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "KM",
+    "shortcut": "BAM",
+    "name": "Bosnia and Herzegovina konvertibilna marka",
+    "uid": 94,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "P",
+    "shortcut": "BWP",
+    "name": "Botswana pula",
+    "uid": 95,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "B$",
+    "name": "Brunei dollar",
+    "shortcut": "BND",
+    "uid": 96,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "FBu",
+    "shortcut": "BIF",
+    "name": "Burundi franc",
+    "uid": 97,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "KHR",
+    "name": "Khmer riel",
+    "shortcut": "KHR",
+    "uid": 98,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "Esc",
+    "shortcut": "CVE",
+    "name": "Cape Verdean escudo",
+    "uid": 99,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "KY$",
+    "shortcut": "KYD",
+    "name": "Cayman Islands dollar",
+    "uid": 100,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "KMF",
+    "shortcut": "KMF",
+    "name": "Comorian franc",
+    "uid": 101,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "symbol": "F",
+    "shortcut": "CDF",
+    "name": "Congolese franc",
+    "uid": 102,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "name": "Cuban peso",
+    "shortcut": "CUC",
+    "symbol": "₱",
+    "uid": 103,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "DJF",
+    "symbol": "Fdj",
+    "name": "Djiboutian franc",
+    "uid": 104,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "EGP",
+    "symbol": "£",
+    "name": "Egyptian pound",
+    "uid": 105,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "GQE",
+    "symbol": "CFA",
+    "name": "Central African CFA franc",
+    "uid": 106,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "ERN",
+    "symbol": "Nfa",
+    "name": "Eritrean nakfa",
+    "uid": 107,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "EEK",
+    "symbol": "KR",
+    "name": "Estonian kroon",
+    "uid": 108,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "ETB",
+    "symbol": "Br",
+    "name": "Ethiopian birr",
+    "uid": 109,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "FKP",
+    "symbol": "£",
+    "name": "Falkland Islands pound",
+    "uid": 110,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "FJD",
+    "symbol": "FJ$",
+    "name": "Fijian dollar",
+    "uid": 111,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "XPF",
+    "symbol": "F",
+    "name": "CFP franc",
+    "uid": 112,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "XAF",
+    "symbol": "CFA",
+    "name": "Central African CFA franc",
+    "uid": 113,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "GMD",
+    "symbol": "D",
+    "name": "Gambian dalasi",
+    "uid": 114,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "GEL",
+    "symbol": "GEL",
+    "name": "Georgian lari",
+    "uid": 115,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "GIP",
+    "symbol": "£",
+    "name": "Gibraltar pound",
+    "uid": 116,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "GTQ",
+    "symbol": "Q",
+    "name": "Guatemalan quetzal",
+    "uid": 117,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "GNF",
+    "symbol": "FG",
+    "name": "Guinean franc",
+    "uid": 118,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "GYD",
+    "symbol": "GY$",
+    "name": "Guyanese dollar",
+    "uid": 119,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "HTG",
+    "symbol": "G",
+    "name": "Haitian gourde",
+    "uid": 120,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "ISK",
+    "symbol": "kr",
+    "name": "Icelandic króna",
+    "uid": 121,
+    "r": "0",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "XDR",
+    "symbol": "SDR",
+    "name": "Special Drawing Rights",
+    "uid": 122,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "IQD",
+    "symbol": "IQD",
+    "name": "Iraqi dinar",
+    "uid": 123,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "JMD",
+    "symbol": "J$",
+    "name": "Jamaican dollar",
+    "uid": 124,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "KPW",
+    "name": "Korean won",
+    "symbol": "W",
+    "uid": 125,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "LSL",
+    "name": "Lesotho loti",
+    "symbol": "M",
+    "uid": 126,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "LRD",
+    "symbol": "L$",
+    "name": "Liberian dollar",
+    "uid": 127,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "LYD",
+    "symbol": "LD",
+    "name": "Libyan dinar",
+    "uid": 128,
+    "r": "3",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "MOP",
+    "symbol": "MOP$",
+    "name": "Macanese pataca",
+    "uid": 129,
+    "r": "1",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "MGA",
+    "symbol": "Ar",
+    "name": "Malagasy ariary",
+    "uid": 130,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "MWK",
+    "symbol": "MK",
+    "name": "Malawian kwacha",
+    "uid": 131,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "MVR",
+    "symbol": "Rf",
+    "name": "Maldivian rufiyaa",
+    "uid": 132,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "MRO",
+    "symbol": "UM",
+    "name": "Mauritanian ouguiya",
+    "uid": 133,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "MUR",
+    "symbol": "Rs",
+    "name": "Mauritian rupee",
+    "uid": 134,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "MDL",
+    "name": "Moldovan leu",
+    "symbol": "MDL",
+    "uid": 135,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "MNT",
+    "name": "Mongolian tugrik",
+    "symbol": "₮",
+    "uid": 136,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "MZM",
+    "symbol": "MTn",
+    "name": "Mozambican metical",
+    "uid": 137,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "MMK",
+    "name": "Myanma kyat",
+    "symbol": "K",
+    "uid": 138,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "PKR",
+    "symbol": "Rs.",
+    "name": "Pakistani rupee",
+    "uid": 139,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "PGK",
+    "symbol": "K",
+    "name": "Papua New Guinean kina",
+    "uid": 140,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "RWF",
+    "symbol": "RF",
+    "name": "Rwandan franc",
+    "uid": 141,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "STD",
+    "symbol": "Db",
+    "name": "São Tomé and Príncipe dobra",
+    "uid": 142,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "SCR",
+    "symbol": "SR",
+    "name": "Seychellois rupee",
+    "uid": 143,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "SLL",
+    "name": "Sierra Leonean leone",
+    "symbol": "Le",
+    "uid": 144,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "SBD",
+    "symbol": "SI$",
+    "name": "Solomon Islands dollar",
+    "uid": 145,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "SOS",
+    "symbol": "Sh.",
+    "name": "Somali shilling",
+    "uid": 146,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "SHP",
+    "symbol": "£",
+    "name": "Saint Helena pound",
+    "uid": 147,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "SDG",
+    "symbol": "SDG",
+    "name": "Sudanese pound",
+    "uid": 148,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "SRD",
+    "name": "Surinamese dollar",
+    "symbol": "$",
+    "uid": 149,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "SZL",
+    "name": "Swazi lilangeni",
+    "symbol": "E",
+    "uid": 150,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "SYP",
+    "symbol": "SYP",
+    "name": "Syrian pound",
+    "uid": 151,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "TJS",
+    "symbol": "TJS",
+    "name": "Tajikistani somoni",
+    "uid": 152,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "TZS",
+    "symbol": "TZS",
+    "name": "Tanzanian shilling",
+    "uid": 153,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "TMT",
+    "name": "Turkmen manat",
+    "symbol": "m",
+    "uid": 154,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "UGX",
+    "symbol": "USh",
+    "name": "Ugandan shilling",
+    "uid": 155,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "UZS",
+    "symbol": "UZS",
+    "name": "Uzbekistani som",
+    "uid": 156,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "VUV",
+    "symbol": "VT",
+    "name": "Vanuatu vatu",
+    "uid": 157,
+    "r": "0",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "VEB",
+    "symbol": "Bs",
+    "name": "Venezuelan bolivar",
+    "uid": 158,
+    "r": "2",
+    "dm": ",",
+    "gs": " "
+  },
+  {
+    "shortcut": "WST",
+    "symbol": "WS$",
+    "name": "Samoan tala",
+    "uid": 159,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "YER",
+    "symbol": "YER",
+    "name": "Yemeni rial",
+    "uid": 160,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "shortcut": "ZWD",
+    "symbol": "Z$",
+    "name": "Zimbabwean dollar",
+    "uid": 161,
+    "r": "2",
+    "dm": ".",
+    "gs": ","
+  },
+  {
+    "r": 2,
+    "name": "New Belarusian ruble",
+    "shortcut": "BYN",
+    "symbol": "BR",
+    "dm": ".",
+    "gs": ",",
+    "uid": 164
+  }
+]

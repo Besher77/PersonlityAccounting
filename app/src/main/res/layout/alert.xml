@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/timeDaily"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center|start"
+        android:padding="@dimen/textsize_10dp"
+        android:layout_margin="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Weekly" />
+    <TextView
+        android:id="@+id/timeWeekly"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center|start"
+        android:padding="@dimen/textsize_10dp"
+        android:layout_margin="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Monthly" />
+    <TextView
+        android:id="@+id/timeMonthly"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center|start"
+        android:padding="@dimen/textsize_10dp"
+        android:layout_margin="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Daily" />
+    <TextView
+        android:id="@+id/timeYearly"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center|start"
+        android:padding="@dimen/textsize_10dp"
+        android:layout_margin="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Yearly" />
+    <TextView
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center|start"
+        android:padding="@dimen/textsize_10dp"
+        android:layout_margin="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Daily" />
+    <TextView
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center|start"
+        android:padding="@dimen/textsize_10dp"
+        android:layout_margin="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Daily" />
+
+</LinearLayout>

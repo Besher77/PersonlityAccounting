@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <FrameLayout
+        android:id="@+id/fram"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:visibility="visible" />
+    <com.gauravk.bubblenavigation.BubbleNavigationLinearView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/nav3"
+        android:elevation="4dp"
+        android:padding="12dp"
+        android:id="@+id/nav"
+        app:bnc_mode="spread">
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/l_item_home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:bt_active="true"
+            app:bt_colorActive="@color/active3"
+            app:bt_colorInactive="@color/unactive3"
+            android:layout_weight="1"
+            app:bt_title="Home"
+         />
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/l_item_home2"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:bt_active="true"
+            app:bt_colorActive="@color/active3"
+            app:bt_colorInactive="@color/unactive3"
+            app:bt_icon="@drawable/ic_search"
+            app:bt_title="Home"
+
+         />
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/l_item_home3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:bt_active="true"
+            app:bt_colorActive="@color/active3"
+            app:bt_colorInactive="@color/unactive3"
+            app:bt_icon="@drawable/ic_down"
+            app:bt_title="More" />
+    </com.gauravk.bubblenavigation.BubbleNavigationLinearView>
+
+</LinearLayout>

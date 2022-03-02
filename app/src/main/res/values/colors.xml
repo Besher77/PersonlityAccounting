@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#35343c</color>
+    <color name="purple_700">#35343c</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="home_inactive">#CBD0D5</color>
+    <color name="home_active">#4484EC</color>
+
+
+    <color name="color_one">#fb7268</color>
+    <color name="color_white">#ededf2</color>
+    <color name="color_two">#E3E0E0</color>
+
+    <color name="R">#FFA726</color>
+    <color name="Python">#66BB6A</color>
+    <color name="CPP">#EF5350</color>
+    <color name="Java">#29B6F6</color>
+
+
+
+
+
+    <color name="unselect1">#E0EEFD</color>
+    <color name="select1">#7DABF5</color>
+    <color name="bg1">#F9FFFF</color>
+    <color name="item1">#F4FAFB</color>
+    <color name="btn1">#4484EC</color>
+    <color name="active1">#4484EC</color>
+    <color name="unactive1">#CBD0D5</color>
+
+    <color name="them2">#35343D</color>
+    <color name="unselect2">#434C62</color>
+    <color name="select2">#7DABF5</color>
+    <color name="bg2">#35343D</color>
+    <color name="item2">#393841</color>
+    <color name="btn2">#7DABF5</color>
+    <color name="active2">#FFFFFF</color>
+    <color name="unactive2">#AAAAAD</color>
+    <color name="nav2">#494850</color>
+
+
+    <color name="them3">#35343D</color>
+    <color name="unselect3">#D6EEED</color>
+    <color name="select3">#4DA8A3</color>
+    <color name="bg3">#F9FFFF</color>
+    <color name="item3">#F4FAFB</color>
+    <color name="btn3">#31908B</color>
+    <color name="active3">#31908B</color>
+    <color name="unactive3">@color/unselect3</color>
+    <color name="nav3">#FFFFFF</color>
+
+
+</resources>

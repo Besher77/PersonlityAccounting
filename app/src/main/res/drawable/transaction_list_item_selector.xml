@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/material_dynamic_primary10" />
+            <corners android:radius="@dimen/card_corner_radius" />
+            <stroke android:width="5.0dip" android:color="@color/material_dynamic_primary20" />
+        </shape>
+    </item>
+    <item android:state_focused="true">
+        <shape>
+            <solid android:color="@color/purple_700" />
+            <corners android:radius="@dimen/card_corner_radius" />
+            <stroke android:width="5.0dip" android:color="@color/purple_500" />
+        </shape>
+    </item>
+    <item android:state_selected="true">
+        <shape>
+            <solid android:color="@color/purple_500" />
+            <corners android:radius="@dimen/card_corner_radius" />
+            <stroke android:width="5.0dip" android:color="@color/purple_500" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@color/purple_200" />
+        </shape>
+    </item>
+</selector>

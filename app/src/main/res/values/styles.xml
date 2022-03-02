@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="bubbb1">
+        <item name="bt_colorActive">@color/active1</item>
+        <item name="bt_colorInactive">@color/unactive1</item>
+    </style>
+    <style name="bubbb2">
+        <item name="bt_colorActive">@color/active2</item>
+        <item name="bt_colorInactive">@color/unactive2</item>
+    </style>
+    <style name="bubbb3">
+        <item name="bt_colorActive">@color/active3</item>
+        <item name="bt_colorInactive">@color/unactive3</item>
+    </style>
+</resources>

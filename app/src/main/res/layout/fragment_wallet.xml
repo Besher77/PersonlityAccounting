@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvwALLWT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <info.hoang8f.widget.FButton
+        android:layout_margin="20dp"
+        android:id="@+id/addNewWallet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="اضافة محفظة جديدة"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="@color/active3"
+        android:textStyle="bold" />
+</LinearLayout>

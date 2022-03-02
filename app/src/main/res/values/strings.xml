@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">My Personal Accounting</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="currencySearch">Search</string>
+    <string name="walletNameHint">Enter Name Of Wallet</string>
+    <string name="walletPriceHint">Enter Price Of Wallet</string>
+    <string name="Nagdy">Nagdy</string>
+    <string name="CreditCard">CreditCard</string>
+    <string name="More">More</string>
+    <string name="Income">Income</string>
+    <string name="Outgoings">Outgoings</string>
+    <string name="Debts">Debts</string>
+    <string name="CatgoryNameHint">Enter Name Of Category</string>
+    <string name="Notes">Notes</string>
+    <string name="Name">Name</string>
+    <string name="Add">ADD</string>
+    <string name="Group">Group</string>
+    <string name="Contact">Contact</string>
+    <string name="DateOfInsert">Date</string>
+    <string name="Priority">Priority</string>
+    <string name="Repate">Repate Task</string>
+    <string name="Daily">Daily</string>
+    <string name="Weekly">Weekly</string>
+    <string name="Monthly">Monthly</string>
+    <string name="Yearly">Yearly</string>
+    <string name="Update">Update</string>
+    <string name="MangmentOfWallet">Wallets</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="Save">Save</string>
+    <string name="all">All</string>
+    <string name="EnterTitle">Enter Title</string>
+    <string name="EnterNote">Enter Note</string>
+    <string name="Time">Time</string>
+    <string name="title_activity_test">TestActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Print">Print</string>
+    <string name="AllTimes">AllTimes</string>
+    <string name="SpecifectDate">SpacifectDate</string>
+    <string name="AllDates">All Dates</string>
+    <string name="FromDate">From Date</string>
+    <string name="ToDate">To Date</string>
+    <string name="custom">Custom</string>
+</resources>
